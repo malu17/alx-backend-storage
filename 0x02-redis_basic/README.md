@@ -1,4 +1,4 @@
-# 0x0B. Redis basic
+# 0x02. Redis basic
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by elias fiseha Software Engineer .
 :copyright: **[alx School](https://www.alx.com/)**  
