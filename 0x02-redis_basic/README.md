@@ -1,5 +1,5 @@
 # 0x02. Redis basic
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
+:open_file_folder: Specializations - alx-backend-storage 
 :bust_in_silhouette: by elias fiseha Software Engineer .
 :copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: redis
